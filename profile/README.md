@@ -1,54 +1,70 @@
 # 🌍 Bits of Faith  
 
-Welcome to **Bits of Faith** – a community-driven organization where technology, innovation, and purpose meet.  
-We believe in building meaningful, scalable solutions for Africa and beyond while creating space for learning, collaboration, and shared growth.  
+Welcome to **Bits of Faith** – where technology becomes ministry.  
+We are a community of believers, builders, and innovators who see **code as a calling** and **technology as a tool for kingdom impact**.  
+
+Our vision is clear: **teach, build, and transform**.  
+We believe the church can lead in transparency, automation, and digital excellence—while raising a new generation of tech-savvy leaders.  
+
+---
 
 ## 🚀 Our Mission  
-- Build impactful tech products rooted in African realities but globally competitive.  
-- Foster collaboration across developers, researchers, and innovators.  
-- Create and protect **intellectual property (IP)** that empowers communities.  
-- Provide mentorship and opportunities for members to learn and grow.  
+
+- **Empower Through Code** – Teach members of the church and community the power of software development and digital literacy.  
+- **Build With Purpose** – Develop tools that strengthen transparency, accountability, and growth within ministries and organizations.  
+- **Automate for Impact** – Use technology to free the church from administrative burdens so it can focus on its higher mission.  
+- **Mentor and Multiply** – Create pathways for mentorship, learning, and innovation across Africa and beyond.  
+- **Protect What We Build** – Safeguard intellectual property while ensuring our projects benefit communities first.  
+
+---
 
 ## 📂 Projects  
 
 ### 🔹 EAConnect  
-EAConnect is one of our flagship initiatives.  
-Its purpose is to **connect people, services, and opportunities** while fostering **community growth and collaboration**.  
-The project reflects our vision of creating digital tools that empower organizations and individuals alike.  
+A flagship initiative designed to **connect people, services, and opportunities**.  
+EAConnect reflects our mission to use digital platforms to **empower communities, increase transparency, and strengthen collaboration** across ministries and organizations.  
 
 ### 🔹 More Projects Coming Soon  
-We are continuously identifying areas where technology can make an impact. Stay tuned for updates!  
+We are actively exploring solutions in areas such as:  
+- **Church Transparency Systems** (finance, reporting, governance)  
+- **Automation Tools for Ministries** (scheduling, communication, operations)  
+- **Coding Bootcamps & Training Programs** rooted in biblical values  
 
 ---
 
 ## 🤝 How to Join  
 
 1. **Get Added to the GitHub Org**  
-   - Share your email with the admins so we can send you an invite  
-   - Accept the invite to access repos and documentation  
+   - Share your email with the admins for an invite  
+   - Accept and gain access to repositories and documentation  
 
 2. **Introduce Yourself**  
    - Who you are  
-   - Your expertise (or what you’re learning)  
-   - What you’d like to contribute  
+   - Your expertise (or what you want to learn)  
+   - How you want to contribute to kingdom tech  
 
-3. **Get Involved**  
+3. **Start Building**  
    - Explore open issues and project boards  
    - Contribute to code, research, or documentation  
-   - Share ideas and feedback in the community  
+   - Share new ideas that can bless the community  
 
 ---
 
 ## 📜 Guidelines  
 
-- Be respectful and collaborative  
-- Protect the org’s IP—avoid oversharing outside trusted channels  
-- Document contributions clearly for transparency and continuity  
+- **Serve With Excellence** – Every line of code is ministry  
+- **Respect & Collaborate** – We grow stronger together  
+- **Protect the Work** – Guard the IP, but multiply the impact  
+- **Be Transparent** – Document clearly, share openly, and build trust  
 
 ---
 
 ## 🌟 Vision  
 
-Bits of Faith isn’t just about code. It’s about building **systems, opportunities, and futures**.  
-We’re here to create, to learn, and to leave behind technology that matters.  
+Bits of Faith is more than an organization—it’s a **movement**.  
+A movement to build technology that uplifts, teaches, and transforms.  
+A movement to see Africa rise as a leader in innovation rooted in faith.  
+A movement to leave behind **systems that serve people, empower churches, and glorify God**.  
+
+> “Let your light so shine before men, that they may see your good works and glorify your Father in heaven.” – Matthew 5:16  
 
