@@ -1,3 +1,5 @@
+![landscape-asset](../assets/bits-of-faith-landscape.jpg)
+
 # 🌍 Bits of Faith  
 
 Welcome to **Bits of Faith** – where technology becomes ministry.  
